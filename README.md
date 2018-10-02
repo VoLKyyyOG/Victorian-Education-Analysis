@@ -18,5 +18,5 @@ __Visual Presentation__
 ![MyFigure](/Case%20study/Case%20study-page-023.jpg)
 ![MyFigure](/Case%20study/Case%20study-page-024.jpg)
 
-**For the dataset cleaning refer to cleanup.ipynb**  
-**For more extensive coding, graphs and justifications refer to analysis.ipynb**  
+[**Clean Up Dataset script**](https://github.com/akiratwang/Victorian-Education-Analysis/blob/master/Clean%20up%20Education.ipynb)
+[**Code and justiciations/analysis**](https://github.com/akiratwang/Victorian-Education-Analysis/blob/master/Analysis.ipynb)
