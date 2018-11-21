@@ -1,6 +1,5 @@
 # Case Study - Victorian Education
 __Visual Presentation__
-![MyFigure](/Case%20study/Case%20study-page-001.jpg)
 ![MyFigure](/Case%20study/Case%20study-page-002.jpg)
 ![MyFigure](/Case%20study/Case%20study-page-003.jpg)
 ![MyFigure](/Case%20study/Case%20study-page-004.jpg)
